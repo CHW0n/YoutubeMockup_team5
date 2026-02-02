@@ -14,3 +14,5 @@
 - CSS를 활용한 기본 스타일링 적용
 - 헤더/썸네일 등 핵심 UI 요소 구현
 - 화면설계서 및 결과 문서 작성
+
+<img width="2837" height="1422" alt="스크린샷 2026-02-02 213402" src="https://github.com/user-attachments/assets/8f30b23a-234f-47ed-9c7a-8679af360d95" />
